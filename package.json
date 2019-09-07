@@ -12,6 +12,6 @@
   },
   "scripts": {
     "test": "jest",
-    "prepublish": "tsc -d"
+    "prepublish": "rm -rf ./dist && tsc -d"
   }
 }
