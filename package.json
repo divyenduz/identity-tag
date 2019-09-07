@@ -11,6 +11,7 @@
     "typescript": "^3.6.2"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepublish": "tsc -d"
   }
 }
