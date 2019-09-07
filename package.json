@@ -1,7 +1,7 @@
 {
   "name": "identity-tag",
   "version": "1.0.1",
-  "main": "index.js",
+  "main": "dist/index.js",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^24.0.18",

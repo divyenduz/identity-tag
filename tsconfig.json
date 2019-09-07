@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
     "lib": ["esnext"],
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "rootDir": "src",
+    "outDir": "dist"
   }
 }
